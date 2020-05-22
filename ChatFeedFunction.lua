@@ -15,15 +15,32 @@
         behaviourChatFeed:AddTeamKillerMessage("Hello from Teamkiller")
         behaviourChatFeed:AddTeamKilledMessage("Hello from Teamkilled")
         behaviourChatFeed:PushMessage(Player.actor,"asdasdasdasd")
+This mod is so Good
+i want add BOT chat Rising storm2 like.
 
+TK chat
+"vote kick :[name]"
+"need kick [name].it troll"
+"guys need kick [name] plz type yes"
+"No"
+
+Game finish chat
+"Stop GGspam i hate this"
+"GGGGGGGGGGGGGGGGG"
+"So good fukin game balance!"
+"wow close game"
+
+kill chat
+"[name] is hax?"
+"i recording [name] .You'll get banned on this server."
     end
     -- Functions
-ClearKilledMessage
-ClearKillerMessages
-ClearTeamKillerMessages
-ClearTeamKilledMessages
+ClearKilledMessage "shit game"
+ClearKillerMessages "bots"
+ClearTeamKillerMessages"noob"
+ClearTeamKilledMessages"schlecht"
 
-AddKilledMessage
-AddKillerMessage
-AddTeamKillerMessage
-AddTeamKilledMessage
+AddKilledMessage"du hurensohn"
+AddKillerMessageQ"hadshot sein vater"
+AddTeamKillerMessage"orosbo"
+AddTeamKilledMessage"xd wie schlecht"
